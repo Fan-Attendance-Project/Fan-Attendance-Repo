@@ -1,4 +1,4 @@
-# Fan-Attendance_Repo
+# Fan-Attendance-Repo
 This repo contains all the webscraping tools, data, hypothesis testing, regression models, and data visuals on our Fan Attendance Project.
 
 The Fan Attendance Project is a Northwestern School of Professional Studies, Masters' in Data Science Capstone Project which seeks to identify the impact that fan attendance has on professional soccer matches played across Europe's top 5 leagues (England, Spain, France, Germany, and Italy).
