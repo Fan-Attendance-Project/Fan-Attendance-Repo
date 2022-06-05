@@ -5,6 +5,8 @@ For an overview of the project, check out here (https://github.com/Fan-Attendanc
 
 You can find our methodology, findings, hypothesis tests, and model in our full report here(https://github.com/Fan-Attendance-Project/Fan-Attendance-Repo/blob/main/Fan%20Attendance%20Report/Fan%20Attendance%20%26%20Stadium%20Capacity%20Soccer%20Analytics.pdf).
 
+You can play around with our data and seasonal stadium win rate model in our R-Shiny Dashboard here (https://team-analytica.shinyapps.io/Final_Report/).
+
 The Fan Attendance Project is a Northwestern School of Professional Studies, Masters' in Data Science Capstone Project which seeks to identify the impact that fan attendance has on professional soccer matches played across Europe's top 5 leagues (England, Spain, France, Germany, and Italy).
 
 In the Data Files Section you will see all of our aggregated webscraped data from FBRef.com. Use of this data must abide by FBRef's SR and Data Use policies which can be found here (https://www.sports-reference.com/data_use.html).
