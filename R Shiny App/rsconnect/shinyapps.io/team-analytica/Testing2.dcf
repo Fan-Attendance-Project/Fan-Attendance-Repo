@@ -1,0 +1,14 @@
+name: Testing2
+title: Testing2
+username:
+account: team-analytica
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6319917
+bundleId: 5915977
+url: https://team-analytica.shinyapps.io/Testing2/
+when: 1652810226.75143
+lastSyncTime: 1652810226.75143
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/finalized_model.sav|data/job.py

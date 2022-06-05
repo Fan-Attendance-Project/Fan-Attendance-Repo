@@ -1,0 +1,13 @@
+name: Final_Report
+title: Final_Report
+username:
+account: team-analytica
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6121805
+bundleId: 5953166
+url: https://team-analytica.shinyapps.io/Final_Report/
+when: 1653684884.99268
+lastSyncTime: 1653684884.99268
+asMultiple: FALSE
+asStatic: FALSE
