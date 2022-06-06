@@ -21,4 +21,4 @@ The OLS Model Folder is where the data preparation, testing and modeling was per
 
 The R-Shiny App Folder contains all the code related to a dashboard which visualizes our data and the model using the R-Shiny Package.
 
-The Last folder, Presentation and Final Report contains the documentation and slide presentation about this project. 
+The last folder, Presentation and Final Report, contains the documentation and slide presentation about this project in the aformentioned url links. 
