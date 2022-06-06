@@ -19,6 +19,6 @@ The Testing Notebooks contain the high level and league level hypothesis testing
 
 The OLS Model Folder is where the data preparation, testing and modeling was performed for our seasonal stadium win rate model. Note data transformation are done in Python, but model testing and training is done in R.
 
-The R-Shiny App Folde contains all the code related to a dashboard which visualizes our data and the model using the R-Shiny Package.
+The R-Shiny App Folder contains all the code related to a dashboard which visualizes our data and the model using the R-Shiny Package.
 
 The Last folder, Presentation and Final Report contains the documentation and slide presentation about this project. 
